@@ -1,0 +1,2 @@
+getgenv().SCRIPT_KEY = "KEYLESS"
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/058feff3cf07407bd8bd1eeea4f111e5d58755bbaf8d8aa58b687a380355ee0b/download"))()
